@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://sdk-metrics.example.com/sitemap.xml
